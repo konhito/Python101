@@ -46,4 +46,4 @@ while True:
 
     if play_again != "yes":
         break
-print("BYE! amogos")
+print("BYE! amigos")
