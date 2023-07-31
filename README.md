@@ -1,7 +1,7 @@
 # Python101 🐍
 # Python Learning Journey - Code Snippets
 
-![Python Logo](python-logo.png)
+
 
 Welcome to my Python Learning Journey! This repository is a collection of code snippets that I learn and practice every day as a Python newbie. It's a record of my progress and growth as I explore the exciting world of Python programming.
 
